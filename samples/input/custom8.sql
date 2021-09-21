@@ -1,0 +1,1 @@
+SELECT * FROM Boats B1, Boats B2 WHERE B1.D = B2.D;

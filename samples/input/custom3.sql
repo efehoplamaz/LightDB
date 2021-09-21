@@ -1,0 +1,1 @@
+SELECT DISTINCT S.A, B.E FROM Sailors S, Boats B

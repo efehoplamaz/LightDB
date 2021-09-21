@@ -1,0 +1,1 @@
+SELECT DISTINCT S.A, B.D, R.H, R.G FROM Sailors S, Boats B, Reserves R WHERE B.D=R.H AND S.A=R.G AND S.A = 1 ORDER BY S.C, R.G;

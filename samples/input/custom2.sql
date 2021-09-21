@@ -1,0 +1,1 @@
+SELECT DISTINCT * FROM Sailors S, Boats B

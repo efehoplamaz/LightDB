@@ -1,0 +1,1 @@
+SELECT DISTINCT * FROM Sailors S, Boats B WHERE S.A = 1 AND S.A = B.E ORDER BY S.A, B.E

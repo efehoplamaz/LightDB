@@ -1,0 +1,1 @@
+SELECT * FROM Boats, Reserves, Sailors WHERE Boats.D >= Sailors.B AND Sailors.B >= Reserves.H;
